@@ -6,4 +6,4 @@ The X1 Twin lacked some of the features of the others. It was only available wit
 
 Software was available on cassette as well as 5 1/4" floppy. No operating system was built in, just an IPL. If you want to load Basic, you need to load it from the drive each time. While this may sound cumbersome, programs were able to access resources that would otherwise be taken up if Basic was built in. 
 
-Many games were released for the platform. A lot were ported to a miriad of systems in the day, but there are a few X1 exclusives floating around. I honestly haven't done a lot with the library yet as I'm still restoring hardware to get things up and running.
+Many games were released for the platform. A lot were ported to a myriad of systems in the day, but there are a few X1 exclusives floating around. I honestly haven't done a lot with the library yet as I'm still restoring hardware to get things up and running.
